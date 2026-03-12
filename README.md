@@ -2,8 +2,6 @@
 
 **`Estudante de Ciência da Computação e técnico de TI.`**
 
-Me chamo Mateus Gustavo, tenho 20 anos e sou natural de Penambuco. Atualmente, estou cursando Ciência da Computação na Uninassau (2/8). Trabalho como técnico de TI e sou apaixonado por tecnologia.
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
