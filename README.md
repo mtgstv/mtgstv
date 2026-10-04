@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Mateus Gustavo
 
-**`Oi! Me chamo Mateus e sou estudante de Ciência da Computação e Desenvolvimento de Sistemas. Trabalho atualmente como Técnico de TI e sou entusiasta de tecnologia em geral.`**
+**`Oi! Me chamo Mateus e sou estudante de Bacharelado de Ciência da Computação e Técnico de Desenvolvimento de Sistemas. Trabalho atualmente como Técnico de TI e sou entusiasta de tecnologia em geral.`**
 
 
 **`Gosto muito de modelagem 3D e outras coisas envolvendo design também!`** 
